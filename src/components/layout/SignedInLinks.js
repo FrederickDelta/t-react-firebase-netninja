@@ -6,7 +6,7 @@ const SignedInLinks = () => {
       <NavLink to="/" className="navbar-item">New Project</NavLink>
       <NavLink to="/" className="navbar-item">Log Out</NavLink>
       <NavLink to="/" className="navbar-item">
-        <button class="button has-background-white" style={{"border-radius": "50%"}}>N</button>
+        <button className="button has-background-white" style={{"borderRadius": "50%"}}>N</button>
       </NavLink>
     </div>
   )

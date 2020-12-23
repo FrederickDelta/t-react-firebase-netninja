@@ -11,7 +11,7 @@ const Navbar = () => {
         </div>
         <div className="navbar-menu">
           <SignOutLinks /> 
-          <SignedInLinks />  
+          <SignedInLinks /> 
         </div>
       </div>
     </nav>
